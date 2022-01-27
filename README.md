@@ -43,7 +43,7 @@ class About extends Me {
 
 ```
 
-<h2>Technologies and Tools I use 🛠️</h2>
+<h2 align=center>Technologies and Tools I use 🛠️</h2>
 <div>
   <a href='#'><img src='/img/icons8-html-5-48.png'></img></a>
   <a href='#'><img src='/img/icons8-css3-48.png'></img></a>
@@ -59,7 +59,7 @@ class About extends Me {
 </div>
 
 
-<h2>Let's get connected 🤝</h2>
+<h2 align=center>Let's get connected 🤝</h2>
 <div>
   <a href='https://t.me/pull_request'><img src='/img/icons8-telegram-app-48.png'></img></a>
 </div>
