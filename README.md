@@ -7,6 +7,7 @@
 🚀 Interested in video games and travel 🇬🇧🇺🇸🇲🇹🇨🇳<br>
 ✉️ Contact: t.me/pull_request
 </div>
+<br>
 
 ```javaScript
 
@@ -55,12 +56,6 @@ class About extends Me {
   <a href='#'><img src='/img/icons8-github-48.png'></img></a>
   
   </br>
-  </br>
-  
-  <span>**Frontend:** JavaScript, React, Redux, Saga, Thunk, HTML5, CSS3, Bootstrap, Handlebars</span></br>
-  <span>**Backend:** NodeJS, Express, Sessions, Bcrypt, Handlebars</span></br>
-  <span>**DB:** PostgreSQL, Sequelize ORM</span></br>
-  <span>**Other:** Git, GitHub, VS Code</span></br>
 </div>
 
 
