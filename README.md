@@ -28,7 +28,7 @@ class About extends Me {
 
     showSkills() {
       return {
-        Frontend: ['JavaScript', 'React', 'Redux', 'Saga', 'Thunk', 'HTML5', 'CSS3', 'Bootstrap', 'Handlebars'],
+        Frontend: ['JavaScript', 'React', 'Redux', 'Saga', 'Thunk', 'HTML5', 'CSS3', 'Bootstrap', 'HBS'],
         Backend: [ 'NodeJS', 'Express', 'Sessions', 'Bcrypt', 'Handlebars'],
         DB: ['PostgreSQL', 'Sequelize ORM'],
         Other: ['Git', 'GitHub', 'VS Code'],
