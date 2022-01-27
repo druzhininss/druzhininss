@@ -60,6 +60,6 @@ class About extends Me {
 
 
 <h2 align=center>Let's get connected 🤝</h2>
-<div>
+<div align=center>
   <a href='https://t.me/pull_request'><img src='/img/icons8-telegram-app-48.png'></img></a>
 </div>
