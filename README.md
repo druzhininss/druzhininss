@@ -44,7 +44,7 @@ class About extends Me {
 ```
 
 <h2 align=center>Technologies and Tools I use 🛠️</h2>
-<div>
+<div align=center>
   <a href='#'><img src='/img/icons8-html-5-48.png'></img></a>
   <a href='#'><img src='/img/icons8-css3-48.png'></img></a>
   <a href='#'><img src='/img/icons8-javascript-48.png'></img></a>
