@@ -5,7 +5,7 @@
 <div>
 👨🏻‍💻 FullStack JS Developer<br>
 🚀 Interested in video games and travel 🇬🇧🇺🇸🇲🇹🇨🇳<br>
-✉️ Contact: t.me/xclickclackbangx
+✉️ Contact: t.me/pull_request
 </div>
 
 <h2>Technologies and Tools I use 🛠️</h2>
@@ -32,5 +32,5 @@
 
 <h2>Let's get connected 🤝</h2>
 <div>
-  <a href='https://t.me/xclickclackbangx'><img src='/img/icons8-telegram-app-48.png'></img></a>
+  <a href='https://t.me/pull_request'><img src='/img/icons8-telegram-app-48.png'></img></a>
 </div>
