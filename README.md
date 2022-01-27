@@ -8,6 +8,40 @@
 ✉️ Contact: t.me/pull_request
 </div>
 
+```javaScript
+
+class Me {
+  constructor (name) {
+    this.name = 'Sergey';
+  }
+}
+
+class About extends Me {
+  constructor (name) {
+    super (name);
+  }
+    
+    sayHi() {
+      console.log(`Hi there! I'm ${this.name}, nice to meet you!`);
+    }
+
+    showSkills() {
+      return {
+        Frontend: ['JavaScript', 'React', 'Redux', 'Saga', 'Thunk', 'HTML5', 'CSS3', 'Bootstrap', 'Handlebars'],
+        Backend: [ 'NodeJS', 'Express', 'Sessions', 'Bcrypt', 'Handlebars'],
+        DB: ['PostgreSQL', 'Sequelize ORM'],
+        Other: ['Git', 'GitHub', 'VS Code'],
+      }
+    }
+
+    getFutureGoal() {
+      return "I'm going to learn TypeScript, ReactNative and Next.js"
+    }
+
+}
+
+```
+
 <h2>Technologies and Tools I use 🛠️</h2>
 <div>
   <a href='#'><img src='/img/icons8-html-5-48.png'></img></a>
@@ -23,7 +57,7 @@
   </br>
   </br>
   
-  <span>**Frontend:** JavaScript, React, Redux, Saga, Thunk, HTML5, CSS3, Bootstrap</span></br>
+  <span>**Frontend:** JavaScript, React, Redux, Saga, Thunk, HTML5, CSS3, Bootstrap, Handlebars</span></br>
   <span>**Backend:** NodeJS, Express, Sessions, Bcrypt, Handlebars</span></br>
   <span>**DB:** PostgreSQL, Sequelize ORM</span></br>
   <span>**Other:** Git, GitHub, VS Code</span></br>
